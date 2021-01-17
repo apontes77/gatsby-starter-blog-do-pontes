@@ -1,14 +1,14 @@
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `Blog do Pontes`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Alexandre Pontes`,
+      summary: `simples ser humano insaciável.`,
     },
-    description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.app/`,
+    description: `Neste blog simples, pretendo expor coisas que aprendi e que aprendo.`,
+    siteUrl: `https://blog-do-pontes.vercel.app/`,
     social: {
-      twitter: `kylemathews`,
+      linkedin: `https://www.linkedin.com/in/alexandre-pontes-de-queiroz/`,
     },
   },
   plugins: [
@@ -60,8 +60,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Gatsby Starter Blog`,
-        short_name: `GatsbyJS`,
+        name: `Blog do Pontes`,
+        short_name: `Blog do Pontes`,
         start_url: `/`,
         background_color: `#ffffff`,
         theme_color: `#663399`,
