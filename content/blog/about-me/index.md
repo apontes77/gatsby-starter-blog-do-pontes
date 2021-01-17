@@ -11,8 +11,7 @@ bem como problemas familiares que me forçaram a ter que enfrentar o ritual de i
 comum do ser humano: pagar boletos.
 
 Em Janeiro de 2019 tomei a decisão que mais doeu em mim até então: desistir do meu curso na UFG.
-Em Fevereiro do mesmo ano eu ingressei na PUC/GO mediante ótimo desempenho que tive no ENEM de
-2018. Não estudei nada e fui muito bem. Consegui bolsa PROUNI integral.
+Em Fevereiro do mesmo ano eu ingressei na PUC/GO mediante ótimo desempenho que tive no ENEM de 2018. Não estudei nada e fui muito bem. Consegui bolsa PROUNI integral.
 
 Contei um pouco de certos acontecimentos pois os mesmos revelam o que eu sou.
 
